@@ -1,0 +1,3 @@
+C:\Users\uvev1\source\repos\obo\obo\Debug\obo.vcxprojAssemblyReference.cache
+C:\Users\uvev1\source\repos\obo\obo\Debug\obo.Form1.resources
+C:\Users\uvev1\source\repos\obo\obo\Debug\obo.vcxproj.GenerateResource.cache

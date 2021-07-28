@@ -1,0 +1,8 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\uvev1\source\repos\obo\obo\CppCLR_WinformsProjekt.cpp(1,1): warning C4005: __CLR_VER: изменение макроопределения
+C:\Users\uvev1\source\repos\obo\obo\pch.cpp : message : см. предыдущее определение "__CLR_VER"
+C:\Users\uvev1\source\repos\obo\obo\CppCLR_WinformsProjekt.cpp(1,1): warning C4651: параметр "/D__CLR_VER=40804341" указан для предкомпилированного заголовка, но не для текущей компиляции
+C:\Users\uvev1\source\repos\obo\obo\Form1.h(208,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\uvev1\source\repos\obo\obo\Form1.h(238,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  obo.vcxproj -> C:\Users\uvev1\source\repos\obo\Debug\obo.exe
